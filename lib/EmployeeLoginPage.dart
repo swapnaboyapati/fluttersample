@@ -107,7 +107,7 @@ class _EmployeeLoginPageState extends State<EmployeeLoginPage> {
                   Image.asset('assets/img.jpg', height: 80),
                   const SizedBox(height: 10),
                   const Text(
-                    'Employee Logi',
+                    'Employee Login',
                     style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold, color: Colors.red),
                   ),
                   const SizedBox(height: 5),
